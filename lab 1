@@ -1,0 +1,129 @@
+
+
+
+# # for i in range (2,12,2):
+# #      print(i)
+
+# #Logic to print two lines
+# # a=10
+# # b=3
+# # print(a//b) #integer division
+# # # print(a/b) #float division
+
+
+# # #Evaluate 4*(6+5)
+# # # print( 4*(6+5))
+
+# # #Evaluate 4+6*5
+# # print(4+6*5)
+
+# # #evaluate(5>4)and(3==5)
+# # print(5>4)and(3==5)
+
+# # #evaluate not (5>4)
+# # print(not (5>4))
+
+# # #evaluate (5>4)or(3==5)
+# # print((5>4)or(3==5))
+
+# #Evaluate 3*1.5+4
+# # print(3*1.5+4)
+
+# # #square root
+# # import math
+# # a=int(input('Enter the value'))
+# # print(a**2)
+# # print(math.sqrt(a))
+
+# #whether it is an integer,string or float
+# a="Subekshya"
+# b=47
+# c=90.00
+# if isinstance(a,str):
+#     print(f"yes {a} is winchy")
+# if isinstance(b,int):
+#     print(f"yes {b} is an integer")
+# if isinstance(c,float):
+#     print(f"{c} is a floating value")
+
+# #list,tuple or set
+# a=[1,2,3,4,5]
+# if isinstance(a,list):
+#    print('list')
+   
+# elif isinstance(a,tuple):
+#     print('tuple')
+
+    
+
+
+# # #twinklw twinkle
+# # print("""Twinkle twinkle little star
+# #  How I wonder what you are
+# #   Up above the world so high
+# #    like a diamond in the sky      """  )
+
+# # #version find
+# # import sys
+# # print("python version")
+# # print(sys.version)
+
+# # #color list
+# # color_list=["Red","Green","White","Black","Blue"]
+# # print("first color",color_list[0])
+# # print("last color",color_list[4])
+
+# #volume of sphere
+# # import math
+# # radius=6
+# # volume=(4/3)*math.pi*radius**3
+# # print(volume)
+
+# #Sum of three numbers
+# x=y=z=6
+# if (x==y==z):
+#   print(3*(x+y+z))
+# else:
+#   print(x+y+z)
+
+  #sum two integers and return 20
+# a=10
+# b=15
+# sum=a+b
+# if(15<=sum<=20):
+#   print('20')
+# else:  
+#    print(sum)
+
+#display name,age and address
+# name='Subekshya'
+# age=20
+# address="Bhaktapur"
+# print('name:',name)
+# print('age:',age)
+# print('address:',address)
+
+#solve (x+y)*(x+y)
+# x=4
+# y=3
+# result=(x+y)**2
+# print(result)
+
+#program to concatenate N strings
+# str1='sube'
+# str2='kshya'
+# print(str1+str2)
+
+#print value 30+20=50
+# x=30
+# y=20
+# sum=x+y
+# print(sum)
+
+#ask user to determine object/a variable
+# name=input("Enter your name")
+# print(f"hello {name}")
+
+#represent number of roses
+roses_input=input("enter no. of roses:")
+roses_count=int(roses_input)
