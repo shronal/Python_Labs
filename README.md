@@ -4,7 +4,7 @@
 This repository contains **Python Lab Reports** prepared at **Khwopa Engineering College**. The reports include various Python programming concepts, problem-solving techniques, and hands-on implementations.  
 
 ## 📁 Contents  
-- 📄 **.py file/ Jupyter Notebook **  
+- 📄 **(.py) file/ Jupyter Notebook **  
 - 📝 **Python Source Codes (.py)**  
 
 ## 🚀 Usage  
